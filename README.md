@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning Cython, PyCUDA, parallel Python, tkinter
 - 💞️ I’m looking to collaborate on structural mechanics and acoustics simulation software
 - 📫 How to reach me ... working on it.
+- 🔗 https://www.linkedin.com/in/argyrios-radopoulos-3b65a191/
 
 <!---
 ArgyRad/ArgyRad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
